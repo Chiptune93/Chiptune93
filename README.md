@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! 👋
+
+I'm Java Developer in South Korea :D
 
 ## Main Skill
 
@@ -7,9 +9,9 @@
 ![javascript](https://img.shields.io/badge/-javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
 ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery&logoColor=ffffff)
 ![Spring](https://img.shields.io/badge/-Spring-DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff)
+<br/>
 ![svn](https://img.shields.io/badge/-Subversion-809CC9?style=for-the-badge&logo=Subversion&logoColor=ffffff)
 ![git](https://img.shields.io/badge/-git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
-<br/>
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=000000)
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=ffffff)
 ![Tomcat](https://img.shields.io/badge/-ApacheTomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=000000)
