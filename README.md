@@ -2,7 +2,7 @@
 
 I'm Java Developer in South Korea :D
 
-## Main Skill
+## Main Skills
 
 ![java](https://img.shields.io/badge/-java-007396?style=for-the-badge&logo=java&logoColor=ffffff)
 ![HTML5](https://img.shields.io/badge/-HTML5-F05032?style=for-the-badge&logo=html5&logoColor=ffffff)
@@ -16,7 +16,7 @@ I'm Java Developer in South Korea :D
 ![Apache](https://img.shields.io/badge/-Apache-D22128?style=for-the-badge&logo=Apache&logoColor=ffffff)
 ![Tomcat](https://img.shields.io/badge/-ApacheTomcat-F8DC75?style=for-the-badge&logo=ApacheTomcat&logoColor=000000)
 
-## Learning Skill
+## In Learning
 
 ![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=ffffff)
 ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
