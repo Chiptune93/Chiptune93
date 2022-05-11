@@ -23,6 +23,7 @@ I'm Java Developer in South Korea :D
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)
 ![Spring Boot](https://img.shields.io/badge/-SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=ffffff)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 
 ## IDE & Tools
 
