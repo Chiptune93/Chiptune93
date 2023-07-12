@@ -34,6 +34,10 @@ I'm Java Developer in South Korea :D
 ![vs Code](https://img.shields.io/badge/-VisualStudioCode-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=ffffff)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=for-the-badge&logo=Notion&logoColor=ffffff)
 ![IntelliJ](https://img.shields.io/badge/-intellijidea-000000?style=for-the-badge&logo=intellijidea&logoColor=ffffff)
+<br/>
+![IntelliJ](https://img.shields.io/badge/-confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=ffffff)
+![IntelliJ](https://img.shields.io/badge/-jira-0052CC?style=for-the-badge&logo=jira&logoColor=ffffff)
+
 
 
 
