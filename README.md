@@ -20,12 +20,13 @@ I'm Java Developer in South Korea :D
 
 ## In Learning
 
-![JPA](https://img.shields.io/badge/-JPA-59666C?style=for-the-badge&logo=hibernate&Color=ffffff)
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![Amazon AWS](https://img.shields.io/badge/-AmazonAWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=ffffff)
 <br/>
+![JPA](https://img.shields.io/badge/-JPA-59666C?style=for-the-badge&logo=hibernate&Color=ffffff)
 ![Nginx](https://img.shields.io/badge/-Nginx-009639?style=for-the-badge&logo=Nginx&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=ffffff)
 ![React](https://img.shields.io/badge/-react-61DAFB?style=for-the-badge&logo=react&logoColor=000000)
 
 
